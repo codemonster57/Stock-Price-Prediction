@@ -1,5 +1,5 @@
 
-#Group project under S.N Bose Research Internship Under Dr. Banani Basu
+# Group project under S.N Bose Research Internship Under Dr. Banani Basu
 
 # Stock-Predictor-V4
 
