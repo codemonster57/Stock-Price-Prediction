@@ -1,3 +1,6 @@
+
+#Group project under S.N Bose Research Internship Under Dr. Banani Basu
+
 # Stock-Predictor-V4
 
 ![stockpredictor ai logo](https://user-images.githubusercontent.com/53996451/224323224-3ec1cd20-747c-42ad-9fb1-ba6e0ecb358b.png)
